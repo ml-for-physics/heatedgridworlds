@@ -1,6 +1,8 @@
 # Heated Gridworlds
 
-<img src="/img/heatmap.gif" style="width: 500px; display: block; margin-left: auto; margin-right: auto;"/>
+<p align="center">
+     <img src="/img/heatmap.gif" style="width: 500px"/>
+</p>     
 
 This supplementary code allows to reproduce all results presented in the paper 
 ["A Study of First-Passage Time Minimization via Q-Learning in Heated Gridworlds"](https://ieeexplore.ieee.org/document/9622239), IEEE Access 2021.
@@ -26,5 +28,6 @@ Please, note that main results can be obtained with small number of agents (10-1
 mean scores will fluctuate strongly due to stochastic nature of the environment. We use 10^3 and 10^4 agents in 2D and 1D simulations respectively.
 
 ### Output example
-
-<img src="/img/main1d_output_example.png" style="width: 600px; display: block; margin-left: auto; margin-right: auto;"/>
+<p align="center">
+     <img src="/img/main1d_output_example.png" style="width: 600px; display: block; margin-left: auto; margin-right: auto;"/>
+</p> 
