@@ -1,8 +1,6 @@
 # Heated Gridworlds
 
-[//]: # (https://github.com/ml-for-physics/heatedgridworlds/blob/main/img/heatmap.gif)
-
-<img src="/img/heatmap.gif"/>
+<img src="/img/heatmap.gif" style="width: 500px; display: block; margin-left: auto; margin-right: auto;"/>
 
 This supplementary code allows to reproduce all results presented in the paper 
 ["A Study of First-Passage Time Minimization via Q-Learning in Heated Gridworlds"](https://ieeexplore.ieee.org/document/9622239), IEEE Access 2021.
@@ -29,4 +27,4 @@ mean scores will fluctuate strongly due to stochastic nature of the environment.
 
 ### Output example
 
-<img src="/img/main1d_output_example.png">
+<img src="/img/main1d_output_example.png" style="width: 600px; display: block; margin-left: auto; margin-right: auto;"/>
